@@ -11,4 +11,7 @@ SUBDIRS += \
     calcCovarMatrix-demo \
     cartToPolar-demo \
     compare-demo \
-    convertScaleAbs-demo
+    convertScaleAbs-demo \
+    dct-demo \
+    dft-demo \
+    gemm-demo
